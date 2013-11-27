@@ -2,10 +2,10 @@
 Backblast
 =========
 
-Something interesting
+An auto dialer for Asterisk written in Python.
 
 * Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/backblast
+* Documentation: https://backblast.readthedocs.org
 
 Features
 --------
