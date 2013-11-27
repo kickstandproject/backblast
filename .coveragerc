@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = backblast
+omit = backblast/tests/*,backblast/openstack/*
+
+[report]
+ignore-errors = True
